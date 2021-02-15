@@ -1,0 +1,14 @@
+{
+    "name": "vladpotter/vladpotter",
+    "description": "Just a placeholder package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vlad Olaru",
+            "email": "vlad@pixelgrade.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
